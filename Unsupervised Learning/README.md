@@ -2,7 +2,7 @@
 
 Welcome to the **Unsupervised Machine Learning** module of my [300-Days-of-AI-ML](https://github.com/Adnan9-63/300-Days-of-AI-ML) journey! (Days 104 - 118)
 
-In the Supervised Learning phase, algorithms were trained on data with definitive "answer keys" (labels). In this phase, the training wheels come off. This folder contains my code, notes, and experiments focused on finding hidden structures, patterns, and anomalies in strictly **unlabeled data**.
+In the Supervised Learning period, algorithms were trained on data with definitive "answer keys" (labels). In this phase, the training wheels come off. This folder contains my code, notes, and experiments focused on finding hidden structures, patterns, and anomalies in strictly **unlabeled data**.
 
 ## 🚀 Topics Covered
 
